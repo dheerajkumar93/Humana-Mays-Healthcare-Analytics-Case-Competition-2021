@@ -1,1 +1,1 @@
-# Humana-Mays-Healthcare-Analytics-Case-Competition-2021
+# Humana-Mays Healthcare Analytics Case Competition 2021
