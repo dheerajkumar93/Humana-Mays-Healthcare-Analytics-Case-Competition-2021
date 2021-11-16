@@ -4,7 +4,7 @@ Rules for the competition - https://mays.tamu.edu/humana-tamu-analytics/official
 
 Kickoff call information - https://mays.tamu.edu/humana-tamu-analytics/2020-kickoff-call-information/
 
-## Achieved Rank 33 in this competition - Team members (Dheeraj Kumar, Akash Khanvilkar, Hetal Sawant, Mounica Madhumala)
+## Achieved Rank 33 in this competition
 
 Humana Inc. (NYSE: HUM) is committed to helping millions of medical and specialty members achieve their best health. Their successful history in care delivery and health plan administration is helping to create a new kind of integrated care with the power to improve health and well-being and lower costs. Humana’s efforts are leading to a better quality of life for people with Medicare, families, individuals, military service personnel, and communities at large.
 
