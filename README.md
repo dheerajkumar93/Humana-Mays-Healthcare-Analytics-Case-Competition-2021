@@ -6,6 +6,8 @@ Kickoff call information - https://mays.tamu.edu/humana-tamu-analytics/2020-kick
 
 ## Achieved Rank 33 in this competition
 
+## Abount Humana
+
 Humana Inc. (NYSE: HUM) is committed to helping millions of medical and specialty members achieve their best health. Their successful history in care delivery and health plan administration is helping to create a new kind of integrated care with the power to improve health and well-being and lower costs. Humana’s efforts are leading to a better quality of life for people with Medicare, families, individuals, military service personnel, and communities at large.
 
 To accomplish that, Humana supports physicians and other health care professionals as they work to deliver the right care in the right place for their patients, and members. Their range of clinical capabilities, resources and tools – such as in-home care, behavioral health, pharmacy services, data analytics and wellness solutions – combine to produce a simplified experience that makes health care easier to navigate and more effective.
